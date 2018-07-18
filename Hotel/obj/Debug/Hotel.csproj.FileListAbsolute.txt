@@ -1,0 +1,13 @@
+E:\Hotel\Hotel\Hotel\bin\Debug\Hotel.exe.config
+E:\Hotel\Hotel\Hotel\bin\Debug\Hotel.exe
+E:\Hotel\Hotel\Hotel\bin\Debug\Hotel.pdb
+E:\Hotel\Hotel\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+E:\Hotel\Hotel\Hotel\obj\Debug\Hotel.master.resources
+E:\Hotel\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+E:\Hotel\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+E:\Hotel\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+E:\Hotel\Hotel\Hotel\obj\Debug\Hotel.exe
+E:\Hotel\Hotel\Hotel\obj\Debug\Hotel.pdb
+E:\Hotel\Hotel\Hotel\obj\Debug\Hotel.Hotel.resources
+E:\Hotel\Hotel\Hotel\obj\Debug\Hotel.Sobe.resources
+E:\Hotel\Hotel\Hotel\obj\Debug\Hotel.Gosti.resources
