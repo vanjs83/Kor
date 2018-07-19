@@ -5,12 +5,20 @@ using System.Windows.Forms;
 
 namespace Hotel
 {
+  
+
     public partial class Gosti : Form
     {
+
+        public delegate void PrikaziHotele();
+
         public Gosti()
         {
+            PrikaziHotele prikazihotele = PrikaziSveHotele;
+
             InitializeComponent();
-            PrikaziSveHotele();
+            //   PrikaziSveHotele();
+            prikazihotele();
             PrikaziSveGoste();
         }
 
