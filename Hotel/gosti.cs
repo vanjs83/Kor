@@ -15,11 +15,12 @@ namespace Hotel
         public Gosti()
         {
             PrikaziHotele prikazihotele = PrikaziSveHotele;
+            prikazihotele += PrikaziSveGoste;
 
             InitializeComponent();
             //   PrikaziSveHotele();
             prikazihotele();
-            PrikaziSveGoste();
+          //  PrikaziSveGoste();
         }
 
         private string connString = "Data Source=VSITESTUDENT;Initial Catalog = Hotel; Integrated Security = True; Connect Timeout = 30; Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
