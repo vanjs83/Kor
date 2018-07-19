@@ -48,7 +48,7 @@ namespace Hotel
 
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message, "Deleted", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show(ex.Message, "Prikazi sve hotele", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
             }
 
@@ -151,7 +151,7 @@ namespace Hotel
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message, "Deleted", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show(ex.Message, "Unos novoga gosta", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
             }
 
@@ -184,7 +184,7 @@ namespace Hotel
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message, "brisanje Sobe", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show(ex.Message, "Brisanje gosta hotela", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
             }
 
@@ -197,6 +197,7 @@ namespace Hotel
 
         private void IspraviGostaHotela(object sender, EventArgs e)
         {
+             
             try
             {
                 SqlCommand cmd = new SqlCommand();
